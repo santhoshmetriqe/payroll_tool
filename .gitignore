@@ -4,3 +4,5 @@ config.ini
 # python
 __pycache__/
 *.pyc
+
+.claude 
