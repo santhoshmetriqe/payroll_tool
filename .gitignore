@@ -1,0 +1,6 @@
+# secrets / local config
+config.ini
+
+# python
+__pycache__/
+*.pyc
